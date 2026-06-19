@@ -1,2 +1,2 @@
 # PowerBI-Portfolio
-Brazilian E-Commerce Power BI Dashboard
+Portfolio showcasing Power BI and Data Analytics project. 
